@@ -37,7 +37,7 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/umerkhanzada-xp/UmRyx-XSS-Tool.git
+git clone https://github.com/umerkhanzada-xp/UmRyx-Tool-xss
 cd UmRyx-XSS-Tool
 bash umryx.sh
 
